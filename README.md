@@ -1,0 +1,2 @@
+# volikomacro
+Macro for CorelDraw
